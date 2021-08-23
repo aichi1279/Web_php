@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <h1 style="font-size: 16px">PHPによるApache＆mariaDBを使用した在庫管理システムの開発</h1>
+    <h1 style="font-size: 16px">PHP,Apache,mariaDBによる在庫管理システムの開発</h1>
     <p>実装の確認は、本ページにあるWeb開発経験フォルダへ移動後portfolio.phpを参照ください。</p>
     <p>AWS上で簡単な在庫管理システムの機能の開発を行いました。<br>
     下記に仕様をまとめた文書を載せておきます。<br>
